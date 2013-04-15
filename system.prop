@@ -13,8 +13,8 @@ ro.telephony.call_ring.multiple=0
 ro.telephony.default_network=4
 
 # Default ecclist
-ro.ril.ecclist=112,911,#911,*911
+ro.ril.ecclist=120,110,#110,*110
 
 #Operator values
-ro.cdma.home.operator.alpha=Sprint
-ro.cdma.home.operator.numeric=310120
+ro.cdma.home.operator.alpha=中国电信
+ro.cdma.home.operator.numeric=46003
